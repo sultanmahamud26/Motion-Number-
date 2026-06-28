@@ -12,7 +12,7 @@ from datetime import datetime
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # ─── CONFIG ───────────────────────────────────────────────────────
-BOT_TOKEN = "8793859455:AAGXnO5IUhjR9_7ey50CJgPFErv9yY1cnQQ"
+BOT_TOKEN = "8793859455:AAEdopPsYyl8uwbKLU3I68z96uPmpXVe534"
 ADMIN_IDS = [8348555334]
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
