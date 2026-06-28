@@ -1,0 +1,17 @@
+# ── Telegram Bot ──────────────────────────────────────────────────
+pyTelegramBotAPI==4.23.0
+
+# ── HTTP requests (GitHub Sync + Gemini AI) ───────────────────────
+requests==2.32.3
+
+# ── System monitoring (System Stats feature) ──────────────────────
+psutil==6.1.1
+
+# ── OTP / 2FA ─────────────────────────────────────────────────────
+pyotp==2.9.0
+
+# ── Phone number parsing/validation ───────────────────────────────
+phonenumbers==8.13.50
+
+# ── HTML parsing / web scraping ───────────────────────────────────
+beautifulsoup4==4.12.3
