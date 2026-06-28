@@ -24,7 +24,7 @@ os.makedirs(PROJECTS_DIR, exist_ok=True)
 # ─── GITHUB SYNC SETUP ────────────────────────────────────────────
 import github_sync
 
-GITHUB_PAT = "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"
+GITHUB_PAT = "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"
 
 github_sync.setup(
     token=GITHUB_PAT,
